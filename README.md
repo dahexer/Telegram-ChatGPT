@@ -39,7 +39,9 @@ source chatbot-env/bin/activate # On Unix or MacOS</code></pre>
 
 ### Edit the preferences.conf
 
-- update OPENAI_API_KEY, TELEGRAM_API_KEY and optionally edit the CharacterProfile and save.
+- insert your OPENAI_API_KEY
+- insert your TELEGRAM_API_KEY
+- edit the CharacterProfile and save.
 
 ### Run <!-- wp:code -->
 <pre class="wp-block-code"><code class="">python main.py</code></pre>
